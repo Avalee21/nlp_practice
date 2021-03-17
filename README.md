@@ -1,5 +1,5 @@
-# nlp_basic_preprocessing
-Introduce basic NLP data preprocessing technique.
+# nlp_practice
+A place for NLP hands-on practice.
 
 
 
